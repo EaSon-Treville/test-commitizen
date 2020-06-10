@@ -1,3 +1,6 @@
+太麻烦了，放弃
+
+
 # test-commitizen
 
 ## Project setup
